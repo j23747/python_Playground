@@ -1,4 +1,4 @@
-# INtroduction to python
+# Introduction to python
 
 print("Hello World!")
 
